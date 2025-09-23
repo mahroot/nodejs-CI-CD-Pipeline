@@ -18,8 +18,8 @@
    - Checkout
    - Build Docker Image
    - Push to DockerHub
-   - Deploy (run container)
-4. Tested pipeline → successful automation.
+   - Deploy 
+   4. Tested pipeline → successful automation.
 
 ---
 
@@ -29,5 +29,3 @@
 - App deployed automatically on EC2.  
 
 ---
-
-👉 Rajput, do you want me to also **make this internship document in PDF format** so you can submit it directly, or you will keep it only in README.md on GitHub?
