@@ -1,10 +1,3 @@
-Got it Rajput ✅ — you want the README to look **developer-friendly**, not only internship style.
-Something like: *Tech stack used, how to run locally, which port app runs on, and CI/CD flow*.
-
-Here’s the **clean README** for your repo:
-
----
-
 # Node.js CI/CD Pipeline with Jenkins & Docker
 
 ## 📌 Project Overview
