@@ -19,7 +19,7 @@
    - Build Docker Image
    - Push to DockerHub
    - Deploy 
-   4. Tested pipeline → successful automation.
+4. Tested pipeline → successful automation.
 
 ---
 
